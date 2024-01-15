@@ -19,15 +19,20 @@
 
 ### 🗨 사용 언어
 -------------
+
+#### BE
 * JAVA
 * SQL
-* JavaScript   
+
+#### FE
+* HTML, CSS, javaScript
+
 
 ### 📪 역할
-| ![image](https://github.com/rlaxoehd4234/.github/assets/92311926/0de3abfb-c685-4cfe-9b81-78fed4612272) |![image](https://github.com/rlaxoehd4234/.github/assets/92311926/21896e7b-7d22-40ad-8e5e-86c74cfbb403)| ![image](https://github.com/rlaxoehd4234/.github/assets/92311926/5ff7e12f-a360-4087-a24f-db1d9bda0422)| ![image](https://github.com/rlaxoehd4234/.github/assets/92311926/92fb5f7a-4a22-4b01-b7f4-8f760ac2fa65)|
+| [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/b8bed5a1-e022-42ce-a60a-64b8dc54eb47" width ="190" height = "190">](https://github.com/KyunyeonKim)|[![image](https://github.com/rlaxoehd4234/.github/assets/92311926/21896e7b-7d22-40ad-8e5e-86c74cfbb403)](https://github.com/rlaxoehd4234)|[<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/d2c3c09d-911b-42b9-a440-7b1701ef75ef" width ="190" height = "190">](https://github.com/hyewon0w0) | [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/d814daa1-333f-46f2-9286-a56785911751" width ="190" height = "190">](https://github.com/saulsol)|
 |:---:|:---:|:---:|:---:|
 |김규년|김태동|박혜원|임솔|
 |프론트 Lead<br> 도메인 개발|총괄 Lead<br> 프론트 개발|디자인 Lead<br> 프론트 개발<br> 도메인 개발|커뮤니케이션 Lead<br> 도메인 개발 <br>보안|
-| ![image](https://github.com/rlaxoehd4234/.github/assets/92311926/0de3abfb-c685-4cfe-9b81-78fed4612272) | ![image](https://github.com/rlaxoehd4234/.github/assets/92311926/44cdf4d8-9bfe-4794-b1d0-aa878e7c1d6e)| ![image](https://github.com/rlaxoehd4234/.github/assets/92311926/5ff7e12f-a360-4087-a24f-db1d9bda0422)|
+| [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/a310e001-de46-4c40-a7ad-4cdb1c010a61" width ="190" height = "190">](https://github.com/daramgya) | [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/320ac9f1-9b5c-4674-92aa-d005731ff03c" width ="190" height = "190">](https://github.com/minwoogi) | [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/57024e39-00fe-48cd-9950-c3116f205996" width ="190" height = "190">](https://github.com/DohoonHan)|
 |제갈건|추민욱|한도훈|
-|Lead<br>도메인 개발 |백엔드 Lead<br> 도메인 개발|Lead <br>도메인 개발 |
+|프론트 개발<br>도메인 개발 |백엔드 Lead<br> 도메인 개발| 도메인 개발 |
