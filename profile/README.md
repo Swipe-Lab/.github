@@ -15,24 +15,25 @@
 
 ### ⚙︎ 개발 환경
 -------------
-기술스택 추후 이미지 넣을 예정   
+<img src="https://img.shields.io/badge/Springboot-000000?style=flat-square&logo=springboot&logoColor=green">
+ <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white">
 
 ### 🗨 사용 언어
 -------------
 
 #### BE
-* JAVA
-* SQL
+* Java
+* MySQL
+* JPA , QueryDsl
 
 #### FE
 * HTML, CSS, javaScript
+* react
 
 
 ### 📪 역할
-| [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/b8bed5a1-e022-42ce-a60a-64b8dc54eb47" width ="190" height = "190">](https://github.com/KyunyeonKim)|[![image](https://github.com/rlaxoehd4234/.github/assets/92311926/21896e7b-7d22-40ad-8e5e-86c74cfbb403)](https://github.com/rlaxoehd4234)|[<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/d2c3c09d-911b-42b9-a440-7b1701ef75ef" width ="190" height = "190">](https://github.com/hyewon0w0) | [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/d814daa1-333f-46f2-9286-a56785911751" width ="190" height = "190">](https://github.com/saulsol)|
-|:---:|:---:|:---:|:---:|
-|김규년|김태동|박혜원|임솔|
-|프론트 Lead<br> 도메인 개발|총괄 Lead<br> 프론트 개발|디자인 Lead<br> 프론트 개발<br> 도메인 개발|커뮤니케이션 Lead<br> 도메인 개발 <br>보안|
-| [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/a310e001-de46-4c40-a7ad-4cdb1c010a61" width ="190" height = "190">](https://github.com/daramgya) | [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/320ac9f1-9b5c-4674-92aa-d005731ff03c" width ="190" height = "190">](https://github.com/minwoogi) | [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/57024e39-00fe-48cd-9950-c3116f205996" width ="190" height = "190">](https://github.com/DohoonHan)|
-|제갈건|추민욱|한도훈|
-|프론트 개발<br>도메인 개발 |백엔드 Lead<br> 도메인 개발| 도메인 개발 |
+| [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/b8bed5a1-e022-42ce-a60a-64b8dc54eb47" width ="190" height = "190">](https://github.com/KyunyeonKim)|[![image](https://github.com/rlaxoehd4234/.github/assets/92311926/21896e7b-7d22-40ad-8e5e-86c74cfbb403)](https://github.com/rlaxoehd4234)|[<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/320ac9f1-9b5c-4674-92aa-d005731ff03c" width ="190" height = "190">](https://github.com/minwoogi) | [<img src = "https://github.com/rlaxoehd4234/.github/assets/92311926/a310e001-de46-4c40-a7ad-4cdb1c010a61" width ="190" height = "190">](https://github.com/daramgya)
+|:---:|:---:|:---:|:---:
+|김규년|김태동|추민욱|제갈건
+|프론트 Lead<br> 도메인 개발|총괄 Lead<br> 프론트 개발|백엔드 Lead<br> 보안 <br> 카드<br> |프론트 개발 <br> 적금 개발 <br>|
